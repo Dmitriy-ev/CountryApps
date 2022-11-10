@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CountryApps</string>
+    <string name="search">Поиск</string>
+    <string name="capital">Страна:</string>
+    <string name="square">Площадь:</string>
+    <string name="population">Население:</string>
+    <string name="language">Язык:</string>
+</resources>
